@@ -1,5 +1,6 @@
 package operator;
 import java.util.Scanner;
+
 public class Bitwise_operator
 {
 

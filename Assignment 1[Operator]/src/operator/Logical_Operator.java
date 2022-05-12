@@ -1,5 +1,6 @@
 package operator;
 import java.util.Scanner;
+
 public class Logical_Operator 
 {
 
@@ -17,3 +18,10 @@ public class Logical_Operator
 	}
 
 }
+
+
+
+
+
+
+
